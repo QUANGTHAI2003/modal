@@ -1,0 +1,1 @@
+var modal = document.querySelector('open-modal-btn');
